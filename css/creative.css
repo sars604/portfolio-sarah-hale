@@ -196,6 +196,14 @@ header.masthead p {
   font-weight: 300;
 }
 
+section.footer {
+  background-image: url("../img/water-rock-thin.jpg");
+  background-color: transparent;
+  background-position: bottom center;
+  background-size: cover;
+
+}
+
 @media (min-width: 768px) {
   header.masthead p {
     font-size: 1.15rem;
